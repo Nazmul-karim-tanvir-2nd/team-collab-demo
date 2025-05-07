@@ -1,1 +1,1 @@
-# team-collab-demo
+# Team Collaboration Project
